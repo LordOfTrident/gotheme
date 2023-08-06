@@ -1,4 +1,4 @@
-<p align="center"><img width="350px" src="res/logo.png"></p>
+<p align="center"><img width="400px" src="res/logo.png"></p>
 <p align="center">A config file theme manager</p>
 
 <p align="center">
