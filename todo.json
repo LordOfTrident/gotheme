@@ -1,0 +1,26 @@
+[
+	{
+		"type": "task",
+		"title": "themes",
+		"desc": null,
+		"done": true
+	},
+	{
+		"type": "task",
+		"title": "colors",
+		"desc": null,
+		"done": true
+	},
+	{
+		"type": "task",
+		"title": "targets",
+		"desc": null,
+		"done": true
+	},
+	{
+		"type": "task",
+		"title": "aliases",
+		"desc": null,
+		"done": false
+	}
+]
